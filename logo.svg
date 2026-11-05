@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Fodié Games">
+  <defs>
+    <linearGradient id="goldE" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff1a8"/><stop offset="0.45" stop-color="#ffc83d"/><stop offset="1" stop-color="#ff7a1a"/></linearGradient>
+    <linearGradient id="rimE" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe08a"/><stop offset="0.5" stop-color="#e59a2a"/><stop offset="1" stop-color="#9a4a12"/></linearGradient>
+    <radialGradient id="coreE" cx="0.4" cy="0.3" r="0.8"><stop offset="0" stop-color="#5b3aa8"/><stop offset="0.6" stop-color="#2e1b63"/><stop offset="1" stop-color="#170d36"/></radialGradient>
+    <linearGradient id="shineE" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="wordE" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff8a1f"/><stop offset="0.5" stop-color="#ffc83d"/><stop offset="1" stop-color="#fff6c8"/></linearGradient>
+  </defs>
+  <g>
+    <polygon points="160.0,16.0 281.2,86.0 281.2,226.0 160.0,296.0 38.8,226.0 38.8,86.0" fill="#120a24" transform="translate(0,9.8)" opacity="0.55"/>
+    <polygon points="160.0,16.0 281.2,86.0 281.2,226.0 160.0,296.0 38.8,226.0 38.8,86.0" fill="url(#rimE)" stroke="#120a24" stroke-width="8.4" stroke-linejoin="round"/>
+    <polygon points="160.0,41.2 259.4,98.6 259.4,213.4 160.0,270.8 60.6,213.4 60.6,98.6" fill="url(#coreE)"/>
+    <polygon points="160.0,41.2 259.4,98.6 259.4,213.4 160.0,270.8 60.6,213.4 60.6,98.6" fill="url(#shineE)"/>
+    <g transform="translate(116.6,94.4) scale(1.4000)">
+      <path d="M0 0 H70 L60 20 H24 V36 H52 L43 54 H24 V92 L0 80 Z" fill="#120a24" transform="translate(4,6)" opacity="0.6"/>
+      <path d="M0 0 H70 L60 20 H24 V36 H52 L43 54 H24 V92 L0 80 Z" fill="url(#goldE)" stroke="#120a24" stroke-width="5" stroke-linejoin="round"/>
+      <path d="M5 5 H62 L57 14 H19 V30" fill="none" stroke="#fff6c8" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+    </g>
+    <path d="M225.8 77.6 l7.0 18.2 l18.2 7.0 l-18.2 7.0 l-7.0 18.2 l-7.0 -18.2 l-18.2 -7.0 l18.2 -7.0z" fill="#8ff3ff" stroke="#120a24" stroke-width="3.5" stroke-linejoin="round"/>
+  </g>
+</svg>
